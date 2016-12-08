@@ -6,6 +6,13 @@ html, body
 	background-color: black;
 }
 
+p, li
+{
+	color: white;
+	font-weight: normal;
+	font-size: 1.2em;
+}
+
 a:link {
     color: #b87bcc;
 }
