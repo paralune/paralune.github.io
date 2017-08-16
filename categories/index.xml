@@ -6,9 +6,28 @@
     <description>Recent content in Categories on paralune</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 15 Aug 2017 16:29:39 -0500</lastBuildDate>
     
 	<atom:link href="http://paralune.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcements</title>
+      <link>http://paralune.com/categories/announcements/</link>
+      <pubDate>Tue, 15 Aug 2017 16:29:39 -0500</pubDate>
+      
+      <guid>http://paralune.com/categories/announcements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mythic Ocean</title>
+      <link>http://paralune.com/categories/mythic-ocean/</link>
+      <pubDate>Tue, 15 Aug 2017 16:29:39 -0500</pubDate>
+      
+      <guid>http://paralune.com/categories/mythic-ocean/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Studio</title>

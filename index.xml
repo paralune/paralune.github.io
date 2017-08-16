@@ -6,10 +6,39 @@
     <description>Recent content on paralune</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2017 03:41:55 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2017 18:19:22 -0500</lastBuildDate>
     
 	<atom:link href="http://paralune.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mythic Ocean</title>
+      <link>http://paralune.com/mythic-ocean/</link>
+      <pubDate>Tue, 15 Aug 2017 18:19:22 -0500</pubDate>
+      
+      <guid>http://paralune.com/mythic-ocean/</guid>
+      <description>About the Game Mythic Ocean is a single-player, first-person, underwater exploration game set in an otherworldly ocean. The idea for the game came from our mutual fascination with the sea - our love for its gentle beauty, and our fear of its darkest depths.
+You&amp;rsquo;ll meet many strange creatures, and what you say to them will have a big impact on how they feel about you and each other. The mystery of where this world came from - and where it&amp;rsquo;s headed - will become clearer as you form bonds with its inhabitants and help them grow.</description>
+    </item>
+    
+    <item>
+      <title>Announcing Mythic Ocean</title>
+      <link>http://paralune.com/2017/08/announcing-mythic-ocean/</link>
+      <pubDate>Tue, 15 Aug 2017 16:29:39 -0500</pubDate>
+      
+      <guid>http://paralune.com/2017/08/announcing-mythic-ocean/</guid>
+      <description>&lt;p&gt;For the past year, Paralune has been hard at work on a game.&lt;/p&gt;
+
+&lt;p&gt;Keeping it a secret has been tough. So far we&amp;rsquo;ve focused on proving out our ideas and teaching ourselves all the necessary skills to make it happen, but now we&amp;rsquo;re finally ready to share our first project: &lt;strong&gt;Mythic Ocean.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a brief teaser video: 
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/dHriVqfqDMI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Getting Started</title>
