@@ -6,10 +6,31 @@
     <description>Recent content on paralune</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Aug 2017 18:19:22 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 23 Mar 2018 16:51:26 -0500</lastBuildDate>
     
 	<atom:link href="http://paralune.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>We&#39;re on Steam!</title>
+      <link>http://paralune.com/2018/03/were-on-steam/</link>
+      <pubDate>Fri, 23 Mar 2018 16:51:26 -0500</pubDate>
+      
+      <guid>http://paralune.com/2018/03/were-on-steam/</guid>
+      <description>&lt;p&gt;You can now wishlist Mythic Ocean on Steam!&lt;/p&gt;
+
+&lt;iframe src=&#34;http://store.steampowered.com/widget/814360/&#34; frameborder=&#34;0&#34; width=&#34;646&#34; height=&#34;190&#34;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;We&amp;rsquo;ve also released our first full trailer for the game! You can watch it on Steam or on Youtube:&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/l5DNOmEBLcA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Mythic Ocean</title>
