@@ -6,6 +6,7 @@
     <description>Recent content in Announcements on paralune</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright 2019 Paralune, LLC</copyright>
     <lastBuildDate>Fri, 23 Mar 2018 16:51:26 -0500</lastBuildDate>
     
 	<atom:link href="http://paralune.com/tags/announcements/index.xml" rel="self" type="application/rss+xml" />
@@ -17,9 +18,7 @@
       <pubDate>Fri, 23 Mar 2018 16:51:26 -0500</pubDate>
       
       <guid>http://paralune.com/2018/03/were-on-steam/</guid>
-      <description>&lt;p&gt;You can now wishlist Mythic Ocean on Steam!&lt;/p&gt;
-
-&lt;iframe src=&#34;http://store.steampowered.com/widget/814360/&#34; frameborder=&#34;0&#34; width=&#34;646&#34; height=&#34;190&#34;&gt;&lt;/iframe&gt;
+      <description>&lt;p&gt;You can now &lt;a href=&#34;https://store.steampowered.com/app/814360/Mythic_Ocean/&#34;&gt;wishlist Mythic Ocean on Steam!&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;We&amp;rsquo;ve also released our first full trailer for the game! You can watch it on Steam or on Youtube:&lt;/p&gt;
 
