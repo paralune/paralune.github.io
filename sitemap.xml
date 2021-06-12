@@ -38,13 +38,13 @@
   </url>
   
   <url>
-    <loc>http://paralune.com/tags/announcements/</loc>
+    <loc>http://paralune.com/categories/announcements/</loc>
     <lastmod>2019-12-11T16:39:41-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://paralune.com/categories/announcements/</loc>
+    <loc>http://paralune.com/tags/announcements/</loc>
     <lastmod>2019-12-11T16:39:41-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -56,13 +56,13 @@
   </url>
   
   <url>
-    <loc>http://paralune.com/tags/mythic-ocean/</loc>
+    <loc>http://paralune.com/categories/mythic-ocean/</loc>
     <lastmod>2019-12-11T16:39:41-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://paralune.com/categories/mythic-ocean/</loc>
+    <loc>http://paralune.com/tags/mythic-ocean/</loc>
     <lastmod>2019-12-11T16:39:41-06:00</lastmod>
     <priority>0</priority>
   </url>
@@ -92,13 +92,13 @@
   </url>
   
   <url>
-    <loc>http://paralune.com/tags/studio/</loc>
+    <loc>http://paralune.com/categories/studio/</loc>
     <lastmod>2017-08-01T03:41:55-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://paralune.com/categories/studio/</loc>
+    <loc>http://paralune.com/tags/studio/</loc>
     <lastmod>2017-08-01T03:41:55-05:00</lastmod>
     <priority>0</priority>
   </url>
